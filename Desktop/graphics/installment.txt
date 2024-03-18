@@ -1,0 +1,14 @@
+from the given computer graphics folder 
+1. install tdm-gccc
+2. After that in you will find the installed program in TDM-GCC-32
+3.Inside that you will find include file copy two file graphics and winbgim inside that file
+4.Then copy libbgi.a into the lib file which you will find inside TDM-GCC-32
+5.Open Code Block got to settings and compiler and debugger
+6. Goto Linker Settings copy the file that is inide graphics file linkerlist copy content and paste 
+on other link optons and ok
+7.got to toolchain executables and click on three dot  and choose upto TDM-GCC-32
+8.Always save you file ont .cpp extension
+
+
+
+
